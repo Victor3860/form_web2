@@ -1,0 +1,30 @@
+
+
+.cabecalho{
+padding-left: 100px;
+padding-right: 100px;
+}
+.main{
+margin: 60px;
+background-color: white;
+padding-bottom: 15px;
+padding-top: 0px;
+}
+
+.container-fluid{
+    background-color: blue;
+}
+
+.titulo p{
+    font-size: small;
+    padding-left: 30px;
+}
+.titulo h1{
+font-size: medium;
+padding-left: 30px;
+padding-top: 10px;
+}
+.mb-3{
+    font-size: small;
+    padding-left: 30px;
+}
